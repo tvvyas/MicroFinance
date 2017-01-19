@@ -1,0 +1,7 @@
+#Thu Jan 19 18:30:49 IST 2017
+base.0=D\:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0e30b8104abc2eab876fff76a12a229474287943
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_81f82f893b6d361b0ebdc0380f4f91519291f6f9\\classes.dex
+base.1=D\:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_81f82f893b6d361b0ebdc0380f4f91519291f6f9
+file.0=D\:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0e30b8104abc2eab876fff76a12a229474287943\\classes.dex

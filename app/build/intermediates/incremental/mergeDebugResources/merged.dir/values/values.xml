@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intrest_list">
+        <item>Month</item>
+        <item>Quarter</item>
+        <item>Year</item>
+      </string-array>
+    <color name="grey">#4c4c4c</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <integer name="google_play_services_version">4323000</integer>
+    <string name="Intrate"/>
+    <string name="NofEmi"/>
+    <string name="Rembal"/>
+    <string name="about">About</string>
+    <string name="abouttext"/>
+    <string name="action_settings">Settings</string>
+    <string name="agent">Agent</string>
+    <string name="agent1"/>
+    <string name="agentid"/>
+    <string name="amount"/>
+    <string name="amount1">Amount</string>
+    <string name="app_name">Micro Finance</string>
+    <string name="close">Close</string>
+    <string name="custname">Customer</string>
+    <string name="date1"/>
+    <string name="dateRec">Start Date</string>
+    <string name="display">Display</string>
+    <string name="email">Enter Your E-Mail Id</string>
+    <string name="emi">EMI</string>
+    <string name="emivalue"/>
+    <string name="emivalue1">EMI</string>
+    <string name="emivalue2"/>
+    <string name="enteruser">Enter UserName</string>
+    <string name="export">Export</string>
+    <string name="exprt">Export Data</string>
+    <string name="forgotpass"><i><u>Forgot Password</u></i></string>
+    <string name="hello">Members Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="history">History</string>
+    <string name="imageSave">Camera</string>
+    <string name="l">Login</string>
+    <string name="loanAmt">Loan Amt</string>
+    <string name="loanamount">Sum</string>
+    <string name="location">Location</string>
+    <string name="location1"/>
+    <string name="mailuser"/>
+    <string name="newentry">AddNew</string>
+    <string name="p">......</string>
+    <string name="paidamt">Paid Amount</string>
+    <string name="r">Register</string>
+    <string name="rate">Rate(%)</string>
+    <string name="save">Save</string>
+    <string name="save1">Submit</string>
+    <string name="showold">Detail</string>
+    <string name="submitbtn">Submit</string>
+    <string name="sum1"/>
+    <string name="time">Time</string>
+    <string name="timeframe"/>
+    <string name="u">Username</string>
+    <string name="uname">Select Customer Name</string>
+    <string name="update">Update</string>
+    <string name="user"/>
+    <string name="usern">User</string>
+    <string name="username">Customer</string>
+    <string name="username1"/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="ButtonText">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#ffffff</item>
+    <item name="android:gravity">center</item>
+    <item name="android:textSize">30sp</item>
+    <item name="android:textStyle">bold</item>
+</style>
+</resources>

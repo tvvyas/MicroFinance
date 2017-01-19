@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_edittext.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-hdpi\\bg_edittext.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_edittext_normal.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-hdpi\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-hdpi\\button.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_edittext_focused.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-hdpi\\bg_edittext_focused.xml"
+    }
+]

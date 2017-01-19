@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Micro Finance</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="username">Customer</string>
+    <string name="user"></string>
+    <string name="loanamount">Sum</string>
+    <string name="rate">Rate(%)</string>
+    <string name="time">Time</string>
+    <string name="save">Save</string>
+    <string name="emi">EMI</string>
+    <string name="emivalue"></string>
+    <string name="newentry">AddNew</string>
+    <string name="showold">Detail</string>
+    <string name="history">History</string>
+    <string name="display">Display</string>
+    <string name="amount"></string>
+    <string name="Intrate"></string>
+    <string name="timeframe"></string>
+    <string name="uname">Select Customer Name</string>
+    <string name="update">Update</string>
+    <string name="usern">User</string>
+    <string name="username1"></string>
+    <string name="amount1">Amount</string>
+    <string name="sum1"></string>
+    <string name="save1">Submit</string>
+    
+    <string name="hello">Members Login</string>
+    <string name="u">Username</string>
+    <string name="l">Login</string>
+    <string name="r">Register</string>
+    <string name="p">......</string>
+    
+    <style name="ButtonText">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#ffffff</item>
+    <item name="android:gravity">center</item>
+    <item name="android:textSize">30sp</item>
+    <item name="android:textStyle">bold</item>
+</style>
+    <string name="agent">Agent</string>
+    <string name="agentid"></string>
+    <string name="dateRec">Start Date</string>
+    <string name="location">Location</string>
+    <string name="agent1"></string>
+    <string name="date1"></string>
+    <string name="location1"></string>
+    <string name="custname">Customer</string>
+    <string name="loanAmt">Loan Amt</string>
+    <string name="emivalue1">EMI</string>
+    <string name="emivalue2"></string>
+    <string name="NofEmi"></string>
+    <string name="Rembal"></string>
+    <string name="imageSave">Camera</string>
+    <string name="about">About</string>
+    <string name="abouttext"></string>
+    <color name="white">#FFFFFF</color>
+     <color name="grey">#4c4c4c</color>
+     <string name="export">Export</string>
+     
+     <string-array name="intrest_list">
+        <item>Month</item>
+        <item>Quarter</item>
+        <item>Year</item>
+      </string-array>
+     
+     
+    
+    <!-- Used if there was an error loading the signed in user's name. -->
+       <string name="close">Close</string>
+    <string name="exprt">Export Data</string>
+    <string name="email">Enter Your E-Mail Id</string>
+    <string name="submitbtn">Submit</string>
+    <string name="enteruser">Enter UserName</string>
+    <string name="mailuser"></string>
+    <string name="forgotpass"><i><u>Forgot Password</u></i></string>
+    <string name="paidamt">Paid Amount</string>
+
+</resources>

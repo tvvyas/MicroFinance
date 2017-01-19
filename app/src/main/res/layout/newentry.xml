@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/home">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="0dip"
+       android:layout_weight="0.50"
+       android:orientation="horizontal" >
+   </LinearLayout>  
+    
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="horizontal"
+        android:layout_weight="1" >
+    
+    <Button
+        android:id="@+id/newentry"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+                 android:drawableLeft="@drawable/addnew"
+               android:text="@string/newentry" 
+              />
+    
+    <Button
+        android:id="@+id/showold"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+                   android:drawableLeft="@drawable/update"
+        android:text="@string/showold"
+        />
+
+    
+ </LinearLayout>
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="horizontal"
+        android:layout_weight="1" >
+     <Button
+        android:id="@+id/update"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+                 android:drawableLeft="@drawable/old"
+        android:text="@string/update" />
+     
+    <Button
+        android:id="@+id/history"
+             android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+                android:drawableLeft="@drawable/history"
+        android:text="@string/history" />
+  
+ </LinearLayout>
+  <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="horizontal"
+        android:layout_weight="1" >
+    <Button
+        android:id="@+id/saveImage"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+                android:drawableLeft="@drawable/camera"
+        android:text="@string/imageSave" />
+
+    <Button
+        android:id="@+id/about"
+        android:layout_width="0dip"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:drawableLeft="@drawable/about"
+        android:text="@string/exprt" />
+
+   </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="horizontal"
+        android:layout_weight="1" >
+   </LinearLayout>
+</LinearLayout >

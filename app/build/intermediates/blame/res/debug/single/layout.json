@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\display.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\export_csv.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\export_csv.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\historylist.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\historylist.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\forgot_password.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listcontent.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\listcontent.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera_photo_capture.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\activity_camera_photo_capture.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_spinner.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\my_spinner.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_detail.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\about_detail.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newentry.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\layout\\newentry.xml"
+    }
+]

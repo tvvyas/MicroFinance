@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\home.jpg",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\home.jpg"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\calendar.jpg",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\calendar.jpg"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\about.jpg",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\about.jpg"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\images.jpg",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\images.jpg"
+    }
+]

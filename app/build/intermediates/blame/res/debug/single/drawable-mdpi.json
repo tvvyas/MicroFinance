@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\camera.png",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\full_background.png",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\full_background.png"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\old.png",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\old.png"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hader.png",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\hader.png"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\myicon.png",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\myicon.png"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\update.png",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\update.png"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\addnew.png",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\addnew.png"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\history.png",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\history.png"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculatorv1.03\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    }
+]
